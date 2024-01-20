@@ -1,0 +1,17 @@
+ChEMBL ID,Name,UniProt Accessions,Type,Organism,Compounds,Activities,Tax ID,Species Group Flag
+CHEMBL3351195,DNA (cytosine-5)-methyltransferase 1,P13864,SINGLE PROTEIN,Mus musculus,25,38,10090,FALSE
+CHEMBL2046265,Hepatocyte growth factor receptor,Q75ZY9,SINGLE PROTEIN,Canis familiaris,7,19,9615,FALSE
+CHEMBL1641342,Methionyl-tRNA synthetase,P23920,SINGLE PROTEIN,Geobacillus stearothermophilus,1,2,1422,FALSE
+CHEMBL1641341,Methionyl-tRNA synthetase,P23395,SINGLE PROTEIN,Thermus thermophilus (strain HB8 / ATCC 27634 / DSM 579),1,2,300852,FALSE
+CHEMBL2007622,Mitochondrial peptide methionine sulfoxide reductase,P54149,SINGLE PROTEIN,Bos taurus,331,338,9913,FALSE
+CHEMBL3038516,TPR/MET fusion protein,P16056|F6ZDS4,CHIMERIC PROTEIN,Mus musculus,23,51,10090,FALSE
+CHEMBL4523469,SAFB-like transcription modulator,Q9NWH9,SINGLE PROTEIN,Homo sapiens,3,3,9606,FALSE
+CHEMBL3509605,Mitochondrial peptide methionine sulfoxide reductase,Q923M1,SINGLE PROTEIN,Rattus norvegicus,1,2,10116,FALSE
+CHEMBL1938227,Met repressor,C3SIU2,SINGLE PROTEIN,Escherichia coli,22,40,562,FALSE
+CHEMBL5372,Methionyl-tRNA synthetase,Q8NY00,SINGLE PROTEIN,Staphylococcus aureus subsp. aureus MW2,41,139,196620,FALSE
+CHEMBL4523511,Mitochondrial carrier homolog 2,Q9Y6C9,SINGLE PROTEIN,Homo sapiens,2,4,9606,FALSE
+CHEMBL4523234,Granzyme M,P51124,SINGLE PROTEIN,Homo sapiens,2,2,9606,FALSE
+CHEMBL1795170,Macrophage-stimulating protein receptor,Q62190,SINGLE PROTEIN,Mus musculus,7,7,10090,FALSE
+CHEMBL5585,Hepatocyte growth factor receptor,P16056,SINGLE PROTEIN,Mus musculus,28,50,10090,FALSE
+CHEMBL3717,Hepatocyte growth factor receptor,P08581,SINGLE PROTEIN,Homo sapiens,7267,10638,9606,FALSE
+CHEMBL2689,Macrophage-stimulating protein receptor,Q04912,SINGLE PROTEIN,Homo sapiens,1570,2326,9606,FALSE
